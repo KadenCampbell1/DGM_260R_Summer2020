@@ -60,3 +60,17 @@ crashlytics-build.properties
 
 
 *.sim
+
+Unity Files/LettersProject/Library/Artifacts/
+
+Unity Files/LettersProject/Library/PackageCache/
+
+Unity Files/LettersProject/Library/ShaderCache/
+
+Unity Files/LettersProject/Temp/
+
+*.meta
+
+*.log
+
+*.dll
