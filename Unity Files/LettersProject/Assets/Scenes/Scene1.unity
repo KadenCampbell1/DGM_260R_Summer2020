@@ -3446,15 +3446,20 @@ MonoBehaviour:
     Questions:
     how to freeze transform
 
-    Is git right or did it not have a ignore for unity
+    Maya will have same Unit size so copy then freeze
+
 
     how
     to apply textures to objects
 
-    Do I need to make a switch type thing for rule
-    4.1.e
+    drag images onto the lambert1 object
 
-    are these UVs considered automatically unwrapped
+
+    Do
+    I need to make a switch type thing for rule 4.1.e
+
+    Use prefab Varient under
+    create after right click on original prefab
 
 '
 --- !u!222 &1336920987
